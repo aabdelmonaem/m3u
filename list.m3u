@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="المصرية Egypt", ONTIME SPORTS HD iptvlister.com
+http://149.62.177.103:8000/play/a08d?checkedby:iptvlister.com
+#EXTINF:-1 group-title="المصرية Egypt", ONTIME SPORTS2 HD iptvlister.com
+http://149.62.177.103:8000/play/a08b?checkedby:iptvlister.com 
+#EXTINF:-1 group-title="المصرية Egypt", ON E HD iptvlister.com
+http://149.62.177.103:8000/play/a08c?checkedby:iptvlister.com
+#EXTINF:-1 group-title="المصرية Egypt" tvg-id="MBCMasr.eg",MBC Masr (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 group-title="المصرية Egypt" tvg-id="MBCMasr2.eg",MBC Masr 2 (1080p)
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
