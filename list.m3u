@@ -11,3 +11,5 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 group-title="المصرية Egypt", MIX (1080p)
 https://ok.ru/videoembed/9340670713418?autoplay=1
+#EXTINF:-1 group-title="المصرية Egypt", MBC2
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
